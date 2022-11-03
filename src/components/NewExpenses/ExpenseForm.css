@@ -1,0 +1,54 @@
+*{  
+    margin: 0px;
+    font-family: inherit;
+    border:none
+}
+
+.expense-form{
+    
+    height: 13.2rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    padding: 1rem;
+
+    background-color: #06283D;
+
+    border-radius: 2rem;
+}
+
+
+
+label{
+    color: white;
+}
+
+.title{
+    height: 2rem;
+    border-radius: 0.4rem;
+}
+
+.amount{
+    height: 2rem;
+    width: 6rem;
+    border-radius: 0.4rem;
+}
+
+.date{
+    height: 2rem;
+    border-radius: 0.4rem;
+}
+
+.submit_button{
+    align-self: flex-end;
+    width: 6rem;
+    height: 2rem;
+    border-radius: 1.5rem;
+}
+.submit_button:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #82CD47;
+    border: 1px solid white;
+}
