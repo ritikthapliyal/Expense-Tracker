@@ -10,8 +10,8 @@ const dummyData = [
   { 
     id: 0,
     date: new Date(2022,5,12),
-    title:"Murder",
-    amount:6969
+    title:"Buy Dog",
+    amount:699
   },
   { 
     id: 1,
@@ -22,7 +22,7 @@ const dummyData = [
   { 
     id: 2,
     date: new Date(2019,6,11),
-    title:"New Desk hehe hahah hoho huiihuii (Wooden)",
+    title:"New Desk (Wooden)",
     amount:450
   },
 
